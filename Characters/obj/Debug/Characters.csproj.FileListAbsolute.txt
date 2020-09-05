@@ -1,0 +1,6 @@
+D:\Desktop\KDZ\Characters\bin\Debug\Characters.dll
+D:\Desktop\KDZ\Characters\bin\Debug\Characters.pdb
+D:\Desktop\KDZ\Characters\obj\Debug\Characters.csprojAssemblyReference.cache
+D:\Desktop\KDZ\Characters\obj\Debug\Characters.csproj.CoreCompileInputs.cache
+D:\Desktop\KDZ\Characters\obj\Debug\Characters.dll
+D:\Desktop\KDZ\Characters\obj\Debug\Characters.pdb

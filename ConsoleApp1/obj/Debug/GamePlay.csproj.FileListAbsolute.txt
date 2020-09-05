@@ -1,0 +1,10 @@
+D:\Desktop\KDZ\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Desktop\KDZ\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Desktop\KDZ\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Desktop\KDZ\ConsoleApp1\bin\Debug\Characters.dll
+D:\Desktop\KDZ\ConsoleApp1\bin\Debug\Characters.pdb
+D:\Desktop\KDZ\ConsoleApp1\obj\Debug\GamePlay.csprojAssemblyReference.cache
+D:\Desktop\KDZ\ConsoleApp1\obj\Debug\GamePlay.csproj.CoreCompileInputs.cache
+D:\Desktop\KDZ\ConsoleApp1\obj\Debug\GamePlay.csproj.CopyComplete
+D:\Desktop\KDZ\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Desktop\KDZ\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
